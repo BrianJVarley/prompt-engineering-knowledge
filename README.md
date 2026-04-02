@@ -326,8 +326,3 @@ MIT — use freely in your projects.
 
 ---
 
-If you want next steps, I can:
-
-* Turn this into a **full prompt library repo structure**
-* Add **real Angular/React code examples**
-* Or build a **multi-agent workflow setup** (dev + reviewer + tester)
