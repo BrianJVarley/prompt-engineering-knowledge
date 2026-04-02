@@ -8,8 +8,7 @@ Here’s your **final combined README.md**, with the Angular section smoothly in
 
 ![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-blue)
 ![LLM](https://img.shields.io/badge/LLM-Best%20Practices-green)
-![Status](https://img.shields.io/badge/status-production--ready-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 > **Design principle:**
 > Good prompts = **Context + Clear Task + Guided Reasoning + Structured Output**
