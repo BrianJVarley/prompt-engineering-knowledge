@@ -1,9 +1,3 @@
-# prompt-engineering-knowledge
-
-Here’s your **final combined README.md**, with the Angular section smoothly integrated and an added section on `agents.md` and skills.
-
----
-
 # 🧠 Prompt Engineering Cheat Sheet (Engineer Edition)
 
 ![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-blue)
